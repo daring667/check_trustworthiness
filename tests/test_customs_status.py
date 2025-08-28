@@ -20,7 +20,7 @@ def test_check_customs_status():
 
         # Список кнопок с соответствующими label_text
         buttons_and_labels = [
-            ("Enterprise", 'In the list of "Comprehensive Outgoing Customs Inspections for the 2nd half of 2025 year"'),
+            ("Enterprise", 'In the list of companies subjected to tax audits in the 2nd half of 2025 year'),
             # ("Finances", "In the list of taxpayers whose transactions were made without actual performance of work, provision of services, or shipment of goods"),
             # ("Purchases", "In the list of TOP 100 suppliers of state purchases"),
             # ("CEO", "Tax and Customs Payment Debt"),
